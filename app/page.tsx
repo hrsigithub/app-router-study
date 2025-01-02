@@ -1,4 +1,3 @@
-import { lightningCssTransform } from "next/dist/build/swc/generated-native";
 
 interface Todo {
   id: number;
